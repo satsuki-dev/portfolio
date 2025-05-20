@@ -94,8 +94,8 @@ export const ContactSection = () => {
               opportunities.
             </p>
             <p className="text-muted-foreground max-w-md mt-2">
-              Remote work is preferred, but I am flexible for hybrid setups
-              around Taguig City.
+              Remote work is preferred, but I am flexible for hybrid and onsite
+              setups around Metro Manila.
             </p>
           </div>
         </div>
